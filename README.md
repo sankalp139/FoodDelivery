@@ -8,6 +8,6 @@ You can use data from <a href= "https://opensource.appbase.io/dejavu/live/#?inpu
 
 
 ### Steps to Run
-     git clone https://github.com/meet7202/Zomato-Clone-App.git  
+     git clone https://github.com/Sankalp139/Zomato-Clone-App.git  
      cd Zomato-Clone-App-master
      npm start
