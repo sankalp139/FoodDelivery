@@ -9,5 +9,5 @@ You can use data from <a href= "https://opensource.appbase.io/dejavu/live/#?inpu
 
 ### Steps to Run
      git clone https://github.com/Sankalp139/FoodDelivery.git  
-     cd Zomato-Clone-App-master
+     cd FoodDelivery-master
      npm start
