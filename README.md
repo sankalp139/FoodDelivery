@@ -1,4 +1,4 @@
-# Zomato-Clone-App
+# FoodDelivery App
 
 Zomato Clone App using **<a href="https://github.com/appbaseio/reactivesearch">Reactive Search</a>** and **<a href="https://github.com/appbaseio/reactivemaps">Reactive Maps</a>**.
 
@@ -8,6 +8,6 @@ You can use data from <a href= "https://opensource.appbase.io/dejavu/live/#?inpu
 
 
 ### Steps to Run
-     git clone https://github.com/Sankalp139/Zomato-Clone-App.git  
+     git clone https://github.com/Sankalp139/FoodDelivery.git  
      cd Zomato-Clone-App-master
      npm start
